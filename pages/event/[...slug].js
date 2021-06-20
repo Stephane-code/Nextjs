@@ -3,6 +3,7 @@ import {getFilteredEvents} from '../../dummy-data'
 import EventList from '../../components/events/event-list'
 import {Fragment} from 'react'
 import ResultsTitle from '../../components/events/results-title'
+import Button from '../../components/ui/button'
 
 function FilterEventPage(){
 

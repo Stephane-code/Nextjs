@@ -1,3 +1,4 @@
+import Link from "next/Link"
 function MainHeader(){
 
     return(
